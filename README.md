@@ -29,7 +29,7 @@ Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh
 
 | Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| <img src="                                                                                                      " width="100px"> |Lucas Alves de Carvalho | [Jefferson](https://github.com/Lucas1Alves98) | [Linkedin]                                           | contatojeloydev@gmail.com |
+| <img src="                                                                                                      " width="100px"> |Lucas Alves de Carvalho | [Lucas](https://github.com/Lucas1Alves98) | [Linkedin]                                           | contatojeloydev@gmail.com |
 
 ## :computer: Tecnologias
 
