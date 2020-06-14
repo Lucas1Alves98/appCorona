@@ -29,7 +29,7 @@ Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh
 
 | Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| <img src="https://avatars2.githubusercontent.com/u/56545903?s=400&u=7445f50f4a7c02a76fef37d74a1f84b2bf2c7109&v=4" width="100px"> | Jefferson de Santana Eloy | [Jefferson](https://github.com/jeffeloy) | [Linkedin](https://www.linkedin.com/in/jefferson-eloy/) | contatojeloydev@gmail.com |
+| <img src="                                                                                                      " width="100px"> |Lucas Alves de Carvalho | [Jefferson](https://github.com/Lucas1Alves98) | [Linkedin]                                           | contatojeloydev@gmail.com |
 
 ## :computer: Tecnologias
 
@@ -43,7 +43,7 @@ Aplicativo mobile que consome a Api [Covid-19](https://covid19-brazil-api.now.sh
 Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e o [Expo](https://docs.expo.io) primeiro e, em seguida clone o repositório executando este comando:
 
 ```
-git clone https://github.com/jeffeloy/appcovid-19.git
+git clone https://github.com/Lucas1Alves98/appCorona.git
 ```
 
 ## :wrench: Instalar dependências
@@ -63,20 +63,20 @@ Foi utilizado o React Native para desenvolver a estrutura do app, e através da 
 
 ## :handshake: Contribuindo
 
-Confira a página [CONTRIBUTING](https://github.com/jeffeloy/appcovid-19/blob/master/CONTRIBUTING.md) página para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
+Confira a página [CONTRIBUTING](https://github.com/Lucas1Alves98/appCorona/blob/master/CONTRIBUTING.md) página para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
 ## :open_book: License
 
 Lançado em 2020.
-Este projeto está sob a [MIT license](https://github.com/jeffeloy/appcovid-19/blob/master/LICENSE).
+Este projeto está sob a [MIT license](https://github.com/Lucas1Alves98/appCorona/blob/master/LICENSE).
 
 <p align="center">
-    Feito com :heart: por <a href="https://github.com/jeffeloy">Jefferson Eloy</a>
+    Feito com :heart: por <a href="https://github.com/Lucas1Alves98">Lucas Alves</a>
 </p>
 
 <!-- Markdown link & img dfn's -->
 
-[github-stars]: https://img.shields.io/github/stars/jeffeloy/ecoleta?logoColor=0f7778&style=social
+[github-stars]: https://img.shields.io/github/stars/Lucas1Alves98/ecoleta?logoColor=0f7778&style=social
 [npm-license]: https://img.shields.io/npm/l/express?color=0f7778&style=plastic
 [npm-version]: https://img.shields.io/npm/v/npm?color=333333&style=plastic
 [code-size]: https://img.shields.io/github/languages/code-size/jeffeloy/devflix?color=0f7778&style=plastic
